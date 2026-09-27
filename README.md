@@ -38,8 +38,8 @@ The California Housing dataset (built into scikit-learn) contains 20,640 rows an
 ## ⚙️ Setup & How to Run
 ```bash
 # Clone the repository
-git clone https://github.com/DimpalTamta/house-price-prediction-linear-regression.git
-cd house-price-prediction-linear-regression
+git clone https://github.com/DimpalTamta/california-housing-price-prediction.git
+cd california-housing-price-prediction
 
 # Install dependencies
 pip install pandas numpy scikit-learn matplotlib seaborn ipywidgets joblib jupyter
